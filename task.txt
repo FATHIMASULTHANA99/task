@@ -1,2 +1,7 @@
 demo task
+<<<<<<< HEAD
 TYENKS
+=======
+OJK
+BIE
+>>>>>>> 218711d5c18a9719a5aae2c3cb946a95e7be97f6
